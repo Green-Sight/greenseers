@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-lastmod: {{ .Date }}
+title: "Prestigious Medical Journals on Food and Nutrition"
+date: 2019-03-29T22:11:26+01:00
+lastmod: 2019-03-29T22:11:26+01:00
 type:  "post"
 categories:
 - foods
