@@ -111,6 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
     checkCookie();
 }, false);
 
+
 </script>
 {{ end }}
 
@@ -210,6 +211,7 @@ function scrollFunction() {
 
     }
     {{ end }}
+
 <!-- Back to top -->
     {{ if .Site.Params.backtotop }}
     if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
@@ -248,8 +250,8 @@ function scrollFunction() {
 
 
   {{ with .Params.customfooter }}
-{{ . | safeHTML }}
-{{ end }}
+    {{ . | safeHTML }}
+  {{ end }}
 
-</body>
+  </body>
 </html>

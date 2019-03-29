@@ -13,9 +13,9 @@ weight = 0
 languageName = "English"
 contentDir = "content/english"
 [languages.en.params]
-      authorinfo = "<h4>Authored By John Doe</h4>"
-      licenseinfo = "<p class=\"w3-small\">John Doe, a good man living on the earth, loving making website with hugo. This article is licensed under a <a rel=\"license\" href=\"https://creativecommons.org/licenses/by/4.0/\" class=\"w3-text-white\">Creative Commons Attribution 4.0 International License</a>.</p>"
-      logotext = "HUGO W3 SIMPLE" # logo text
+      authorinfo = "<h4>Authored By Avi Kumar Mehenwal</h4>"
+      licenseinfo = "<p class=\"w3-small\">Avi Mehenwal, a good man living on the earth.</p>"
+      logotext = "Greenseers Foodblog" # logo text
       isso_baseurl=""  #if you want to use isso as comment system,set your isso js baseurl here. It is like "https://isso.yourwebsite.com/" or "https://yourwebsite.com/isso/"
       isso_langcode="en"
       cookie_info = "This website uses cookies to ensure you get the best experience on our website. [Learn more](/privacy-policy/)"
@@ -82,7 +82,7 @@ contentDir = "content/chinese"
 [params]
     welcomemessage = false #if set true. The home page will display the content of _index.md
     authorandlicense = true
-    authorimgurl = "https://github.com/avimehenwal/avimehenwal/blob/master/Images/avimehenwal.jpg" #if authorandlicense set true, this one must be set too
+    authorimgurl = "https://raw.githubusercontent.com/avimehenwal/avimehenwal/master/Images/avimehenwal.jpg" #if authorandlicense set true, this one must be set too
 
     relatedPosts = true
     backtotop = true
@@ -102,7 +102,6 @@ contentDir = "content/chinese"
     # adsenseid="ca-pub-123456789"
     allowads = true
     logotext = "Greenseers Foodblog" # logo text
-    footer = "&copy; [John Doe](https://johndoe.com) 2018 | [Github](https://github.com/johndoe) | [Twitter](https://twitter.com/johndoe)  | [RSS](/index.xml)"
 
 
 [params.social]  # Set your social account here, if you don't have some accounts just comment them
