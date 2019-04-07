@@ -1,5 +1,5 @@
 <span class="w3-tooltip">
-  <mark>{{ .Get 0 }}</mark>
+  <mark>{{ .Get 0 | default "term" }}</mark>
   <span class="w3-text w3-tag w3-animate-opacity w3-green">
     {{ .Inner }}
   </span>

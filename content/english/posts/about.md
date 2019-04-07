@@ -7,20 +7,21 @@ type: page
 url: /about/
 ---
 
-<p class="w3-tooltip">London <span class="w3-text w3-tag w3-animate-opacity w3-theme">
-9 million inhabitants</span> is the capital of England.</p>
-
-# Why Yet-Another-Food-Blog?
+# Why Yet-Another-Food-Blog ?
 {{<quote>}}
 People aren't living longer they are dying longer.
 {{</quote>}}
 
-{{<warning title="Does it really matter what we eat??">}}
-I think yes its important considering we eat 3 times everyday because what we eat is the number one determinant of how long we live.
+If this is to be believed then we need to seriously look at our diet and they may lead us
+to a premature death and illness.
+
+### Does it really matter what we eat??
+I think yes its important considering we eat 3 times everyday. What we eat is the number one determinant of how long we live.
+
+Dietary risks and tobacco smoking are the leading cause of diseases and disability as per a
+study done in USA in 2010
 
 {{< figure src="/img/cause-of-deaths.png" title="Top cause of death in US as per 2010 study" >}}
-
-{{</warning>}}
 
 Still interested ....
 
@@ -30,10 +31,12 @@ The purpose of this blogging website is to spread the information about the impo
 
 He we will try yo demystify common myths and provide facts for better and greener future.  
 
-{{< figure src="/img/File_001.png" title="Information sharing cycle" >}}
+## Could we be ill or mis-informed about our dietary habits ?
+
+Currently all or majority of food and dietary information comes from medical professional
+and family doctors who are not very well equipped with dietary toolkit in their toolchain.
 
 {{< figure src="/img/information-sharing-cycle.jpg" title="Information sharing cycle" >}}
-
 
 {{<quote width="90%">}}
 To eat is a necessity, but to eat intelligently is an art.

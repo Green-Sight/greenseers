@@ -12,7 +12,7 @@ categories:
 tags:
 - plant based
 w3codecolor: true
-draft: true
+draft: false
 comments: false
 thumbnail: https://www.bbcgoodfood.com/sites/default/files/editor_files/2017/11/plant-based-diet-guide-main-image-700-350.jpg
 ---
