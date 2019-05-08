@@ -1,0 +1,46 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build and Run website",
+            "type": "shell",
+            "command": "hugo",
+            "args": [
+                "server",
+                "-D"
+            ],
+            "presentation": {
+                "reveal": "always",
+                "panel": "dedicated"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "New English Post",
+            "type": "shell",
+            "command": "hugo",
+            "args": [
+                "new",
+                "content/english/posts/${input:postName}"
+            ],
+            "group": "test",
+            "presentation": {
+                "reveal": "silent",
+                "panel": "shared"
+            }
+        }
+    ],
+    // https://code.visualstudio.com/docs/editor/variables-reference
+    "inputs": [
+        {
+            "type": "promptString",
+            "id": "postName",
+            "description": "new-post.md",
+            "default": "new-post.md"
+        }
+}
