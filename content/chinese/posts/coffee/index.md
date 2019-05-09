@@ -21,3 +21,32 @@ thumbnail: https://www.bbcgoodfood.com/sites/default/files/editor_files/2017/11/
 Drip coffee
 
 Latte is the base for many drinks
+    oats milk creamer
+
+
+Flour and bread crumbs coating dips
+    wheat flour
+    chickpea flour / gram flour
+    corn flour
+
+Falafal balls
+    blend
+        chickpeas
+        onions
+        garlic
+        parseley
+    add flour and
+    airfry 380F for 15 mins
+
+Onion Rings
+    batter
+        wheat + corn flour
+
+Animal style fries
+    baked potatoes (with salt, pepper, peprikka)
+    fried onions in broth (degalzed)
+    tofu+lemon+yeast+ketchup+white wine vinegar+dates : mixture sauce
+
+
+Lasagne::
+    are stacked pasta
