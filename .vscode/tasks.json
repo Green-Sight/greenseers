@@ -4,23 +4,6 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Build and Run website",
-            "type": "shell",
-            "command": "hugo",
-            "args": [
-                "server",
-                "-D"
-            ],
-            "presentation": {
-                "reveal": "always",
-                "panel": "dedicated"
-            },
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
-        },
-        {
             "label": "New English Post",
             "type": "shell",
             "command": "hugo",
