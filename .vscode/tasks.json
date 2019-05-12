@@ -4,6 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
+            // TASK doesnt work well. Always creats task in chinese sectionw
             "label": "New English Post",
             "type": "shell",
             "command": "hugo",
