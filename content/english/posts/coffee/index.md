@@ -182,6 +182,8 @@ like bubble gum
 
 kneading the dough develops Gluten
 
+In cold water, the gluten chains are more able to "stretch out" ... Hot water makes the gluten molecules form more of a "ball" shape
+
 Cooking chickpeas the scientific way
     chickpeas are dry from inside
     add tea bag and baking soda at the same time
@@ -193,4 +195,10 @@ Cooking chickpeas the scientific way
 
 For cakes, muffins, pancakes, or any other baked goods that go straight into the oven without rising, baking soda or baking powder are the way to go. Baking soda (scientific name: sodium bicarbonate) also creates carbon dioxide, and although it doesn't need resting time to start working, it does need acid. Baking soda is great for recipes that have built-in acidic elements, like lemon or buttermilk — without them, baking soda leaves behind a distinctive taste.
 
+
+##### Grilling vs Broiling
+heat source on top:: Broiling
+heat source on bottom:: Grilling
+Roasting::
+Baking::
 
