@@ -9,7 +9,6 @@ categories:
 tags:
 - techniques
 w3codecolor: true
-draft: true
 comments: false
 thumbnail: https://vignette.wikia.nocookie.net/coffee/images/8/85/Coffee_Bean_Structure.png/revision/latest?cb=20070203215647
 ---

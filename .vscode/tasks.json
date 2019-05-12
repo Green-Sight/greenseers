@@ -4,7 +4,8 @@
     "version": "2.0.0",
     "tasks": [
         {
-            // TASK doesnt work well. Always creats task in chinese sectionw
+            // ? update task to create page bundle directory then create
+            // ? index.md inside it
             "label": "New English Post",
             "type": "shell",
             "command": "hugo",
@@ -12,12 +13,7 @@
                 "new",
                 "posts/${input:postName}"
             ],
-            "group": "test",
-            "key": "ctrl+alt+n",
-            // "presentation": {
-            //     "reveal": "silent",
-            //     "panel": "shared"
-            // }
+            "group": "build",
         }
     ],
     // https://code.visualstudio.com/docs/editor/variables-reference
@@ -26,6 +22,6 @@
             "type": "promptString",
             "id": "postName",
             "description": "index.md",
-            "default": "new-post.md"
+            "default": "index.md"
         }
 }
