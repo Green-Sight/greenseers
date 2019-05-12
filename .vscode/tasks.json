@@ -9,13 +9,14 @@
             "command": "hugo",
             "args": [
                 "new",
-                "content/english/posts/${input:postName}"
+                "posts/${input:postName}"
             ],
             "group": "test",
-            "presentation": {
-                "reveal": "silent",
-                "panel": "shared"
-            }
+            "key": "ctrl+alt+n",
+            // "presentation": {
+            //     "reveal": "silent",
+            //     "panel": "shared"
+            // }
         }
     ],
     // https://code.visualstudio.com/docs/editor/variables-reference

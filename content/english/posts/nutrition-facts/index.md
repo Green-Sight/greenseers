@@ -22,6 +22,10 @@ Science is providing experimentation for **cause & effect**
 Vegitables and Fruits should be the centre piece of our meal.
 Recommendad 9 fruits and vegitables each day.
 
+Most creadible nutrition authorities
+1. World Health Organization
+2. European Food safety Authority
+
 Gut bacteria can create anti-obesity compund from fibre.
 
 Energy Density
@@ -167,8 +171,7 @@ Barbecuing techniques include smoking, roasting or baking, braising and grilling
 Cooking is just Thermodynamics and chemistry, but tastier.
 
 #### Fats
-{{< figure src='saturated-unsaturated-fats-molecular-config.jpg' title='molecular difference between saturated and unsaturated fat' >}}
-
+{{< figure src="saturated-unsaturated-fats-molecular-config.jpg" title="molecular difference between saturated and unsaturated fat" >}}
 
 saturated fats :: all C atoms are bonded to H atom
 unsaturated fats :: some C atom bind to each other
