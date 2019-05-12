@@ -25,7 +25,7 @@
         {
             "type": "promptString",
             "id": "postName",
-            "description": "new-post.md",
+            "description": "index.md",
             "default": "new-post.md"
         }
 }
