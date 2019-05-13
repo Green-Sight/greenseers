@@ -38,3 +38,26 @@ same process as above
 ### Banana Bread Recipy
 
 https://www.youtube.com/watch?v=sMbrueSmGlE
+
+### Vegan soda bread
+
+Mix dry ingridients with wet ingridients
+
+#### Dry Ingridients
+
+* 600 grams of 100% whole meal flour
+* pinch of salt seasoning
+* 20 grams (one and a third tablespoon) baking soda (sodium carbonate)
+* Add seeds, sunflower, pumpkin, sesemi, 2 tablespoons each
+
+#### Wet Ingridients
+
+* Almond rice milk (any non dairy milk), 300 ml (~50% of flour)
+* Flax egg
+* Lemon juice - Baking soda needs acid to rise
+
+Bring the dough together and bake **200 for 30 mins**
+
+Lets break some bread
+
+https://www.youtube.com/watch?v=gFWqYL5B-u8
