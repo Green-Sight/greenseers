@@ -1,5 +1,5 @@
 ---
-title: "Insulin"
+title: "Insulin and FAT loss"
 date: 2019-05-30T18:14:09+02:00
 lastmod: 2019-05-30T18:14:09+02:00
 type:  "post"
@@ -13,27 +13,24 @@ tags:
 w3codecolor: true
 draft: true
 comments: false
-thumbnail: https://www.bbcgoodfood.com/sites/default/files/editor_files/2017/11/plant-based-diet-guide-main-image-700-350.jpg
+thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/InsulinHexamer.jpg/250px-InsulinHexamer.jpg
 ---
 
 Losing weight is unnatural for body. Weight is a survival mechanism
 
 {{<info title="Insulin">}}
-Insulin blocks any chance of burning fat.
-
-* It makes us fat
-* It blocks release of fat
-
-INSULIN is also known as the FAT-STORING Hormone
-
-Even in the presence of little bit of Insulin, all FAT burning hormones are shut down.
+Insulin blocks any chance of burning fat.</br>
+</br>It makes us fat
+</br>It blocks release of fat
+</br></br>INSULIN is also known as the FAT-STORING Hormone
+</br></br>Even in the presence of little bit of Insulin, all FAT burning hormones are shut down.
 {{</info>}}
 
-## How does it work?
+### How does it work?
 
 * **Pancreas** is located below the left rib-cage.
 * It has alpha, beta and delta cells
-* Beta cells in Pancreas makes Insulin
+* Beta cells in Pancreas makes [Insulin](https://en.wikipedia.org/wiki/Insulin)
 
 
 ### functions of Insulin
@@ -46,11 +43,9 @@ Even in the presence of little bit of Insulin, all FAT burning hormones are shut
    
 ### Insulin Spike
 
-is triggered by *Carbohydrates*
-[Bread + Sugar] = Glycogen + Fat
-
-may lead to **Insulin Resistance** or *Fatty Liver*
-
+* is triggered by *Carbohydrates*
+  * [Bread + Sugar] = Glycogen + Fat
+* may lead to **Insulin Resistance** or *Fatty Liver*
 
 ### What causes Insulin Resistance
 
@@ -78,27 +73,27 @@ Eat only when you are hungry.
 {{</info >}}
 
 *Glycemic Index* - Food that triggers sugar
-*Insulin Index* - that triggers insulin
+
+[*Insulin Index*](https://en.wikipedia.org/wiki/Insulin_index) - that triggers insulin
 
 ## Dangerous Foods
 
-| Corn | 85% GMO | 
-| Soy  | 93% GMO |
+ Worst Food | GMO Content
+--------|-------
+ Corn | 85% GMO 
+ Soy  | 93% GMO
 
 ### Why are they MOST dangerous foods?
 
-*GMO*  Genetically Modified Organism
+*GMO*  [Genetically Modified Organism](https://en.wikipedia.org/wiki/Genetically_modified_organism)
 alteration of food resistant to weed-killers.
 
-{{<quote>}}
+{{<quote author="Dr Eric Berg">}}
 Get healthy to loose WEIGHT.
-Get healthy first and then loose weight.
-
-Fat is a symptom, not a cause
-
-Your food is only as healthy as the SOIL it grows on.
-
-Insulin prevents from loosing weight.
+</br>Get healthy first and then loose weight.
+</br>Fat is a symptom, not a cause
+</br>Your food is only as healthy as the SOIL it grows on.
+</br>Insulin prevents from loosing weight.
 {{</quote>}}
 
 ## What lowers Insulin
@@ -109,7 +104,7 @@ Insulin prevents from loosing weight.
    2. hot and sour chicken chinese food
    3. Hamburger with bun and fries and coke
 3. Low fat proteins
-4. *MSG* Mono Sodium Glutamate
+4. *MSG* [Mono Sodium Glutamate](https://en.wikipedia.org/wiki/Monosodium_glutamate)
    1. usually present in fast-foods
    2. can spike insulin level ~by 200%
 5. stress
@@ -117,7 +112,9 @@ Insulin prevents from loosing weight.
 
 {{< figure src="insulin-fat.png" title="Insulin is like a switch for Fat burning" >}}
 
-{{< figure src="potassium-content.png" title="Potassium content" >}}
+<a href="https://themedicalbiochemistrypage.org/insulin.php">
+{{< figure src="gsis.png" title="Insulin Function" >}}
+</a>
 
 ## Reference
 
