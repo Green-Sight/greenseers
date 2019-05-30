@@ -12,7 +12,6 @@ categories:
 tags:
 - plant based
 w3codecolor: true
-draft: true
 comments: false
 thumbnail: https://cdn1.medicalnewstoday.com/content/images/articles/287/287212/potassium-element.jpg
 ---

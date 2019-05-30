@@ -11,7 +11,6 @@ categories:
 tags:
 - plant based
 w3codecolor: true
-draft: true
 comments: false
 thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/InsulinHexamer.jpg/250px-InsulinHexamer.jpg
 ---

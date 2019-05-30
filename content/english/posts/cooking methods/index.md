@@ -11,7 +11,6 @@ categories:
 tags:
 - plant based
 w3codecolor: true
-draft: true
 comments: false
 thumbnail: https://i2.wp.com/www.shiveshskitchen.com/wp-content/uploads/2013/05/Cooking-Methods.jpg?resize=500%2C300&ssl=1
 ---
